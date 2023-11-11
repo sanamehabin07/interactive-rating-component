@@ -61,7 +61,7 @@ p{
    border-radius: 50%;
    padding:7px 14px ;
    cursor: pointer;
-   transition: all .5s;
+   transition: all .1s;
 }
 .list-item-normal{
    color: var(--medium-grey);
@@ -69,11 +69,11 @@ p{
 
 }
 .list-item:hover{
-   background-color:var(--medium-grey);
+   background-color:var(--orange);
    color: var(--white);
 }
 .list-item-active{
-   background-color: var(--orange);
+   background-color: var();
    color:var(--white)
 
 }
